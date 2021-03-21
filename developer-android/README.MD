@@ -1,16 +1,4 @@
-##Criando um bolo de aniversário.
-
-O código vai exibir o seguinte resultado:
-
- ,,,,,,,,,,,,,,,,,,,,,,,,
-
- ||||||||||||||||||||||||
-==========================
-@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@
+Criando um bolo de aniversário.
 
 Para isso vamos criar, principalmente, funções com argumentos e instruões repeat.
 
