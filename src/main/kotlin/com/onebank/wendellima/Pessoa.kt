@@ -2,7 +2,8 @@ package com.onebank.wendellima
 
 class Pessoa {
     var nome: String = "Wendel"
-    var cpf: String = "333.444.555.666-77"
+    private var cpf: String = "333.444.555.666-77"
+    private set //fica como provate apenas o set, o get fica disponível
 }
 
 fun main()  {
